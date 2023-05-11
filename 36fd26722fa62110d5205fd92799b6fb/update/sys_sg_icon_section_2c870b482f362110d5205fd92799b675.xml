@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_icon_section">
+    <sys_sg_icon_section action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applets>377787482f362110d5205fd92799b6bf,5087c7482f362110d5205fd92799b6d5</applets>
+        <card_size/>
+        <column_count/>
+        <custom_height/>
+        <custom_width/>
+        <data_item/>
+        <display_feed_count>true</display_feed_count>
+        <hide_header>false</hide_header>
+        <hide_section_if_empty>false</hide_section_if_empty>
+        <is_custom_size>false</is_custom_size>
+        <is_hidden_preference_name/>
+        <orientation>vertical</orientation>
+        <required_roles/>
+        <row_count/>
+        <sys_class_name>sys_sg_icon_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 19:29:42</sys_created_on>
+        <sys_id>2c870b482f362110d5205fd92799b675</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Two Do</sys_name>
+        <sys_package display_value="Two Do" source="x_852301_two_do">36fd26722fa62110d5205fd92799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Two Do">36fd26722fa62110d5205fd92799b6fb</sys_scope>
+        <sys_update_name>sys_sg_icon_section_2c870b482f362110d5205fd92799b675</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 19:29:42</sys_updated_on>
+        <table/>
+        <title>Two Do</title>
+        <visible_condition/>
+        <wide_column_count/>
+    </sys_sg_icon_section>
+</record_update>

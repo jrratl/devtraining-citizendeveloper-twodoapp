@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Two Do">cf7747482f362110d5205fd92799b694</applet_launcher>
+        <icon display_value="Clipboard Lines">877747482f362110d5205fd92799b693</icon>
+        <label>Two Do</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 19:29:37</sys_created_on>
+        <sys_id>037747482f362110d5205fd92799b696</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Two Do</sys_name>
+        <sys_package display_value="Two Do" source="x_852301_two_do">36fd26722fa62110d5205fd92799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Two Do">36fd26722fa62110d5205fd92799b6fb</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_037747482f362110d5205fd92799b696</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 19:29:37</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

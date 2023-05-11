@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_852301_two_do.admin" name="x_852301_two_do.admin">43fd66722fa62110d5205fd92799b603</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 18:05:39</sys_created_on>
+        <sys_id>d9447a842ff22110d5205fd92799b6ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_852301_two_do.admin</sys_name>
+        <sys_package display_value="Two Do" source="x_852301_two_do">36fd26722fa62110d5205fd92799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Two Do">36fd26722fa62110d5205fd92799b6fb</sys_scope>
+        <sys_update_name>sys_user_role_contains_d9447a842ff22110d5205fd92799b6ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 18:05:39</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

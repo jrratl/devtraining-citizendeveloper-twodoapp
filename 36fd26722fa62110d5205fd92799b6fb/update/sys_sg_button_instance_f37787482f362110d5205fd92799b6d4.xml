@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (Active Two Dos)">b37787482f362110d5205fd92799b6d3</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete</name>
+        <order/>
+        <parent>f37787482f362110d5205fd92799b6d0</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 19:29:40</sys_created_on>
+        <sys_id>f37787482f362110d5205fd92799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="Two Do" source="x_852301_two_do">36fd26722fa62110d5205fd92799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Two Do">36fd26722fa62110d5205fd92799b6fb</sys_scope>
+        <sys_update_name>sys_sg_button_instance_f37787482f362110d5205fd92799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 19:29:40</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=f37787482f362110d5205fd92799b6d4"/>
+</record_update>

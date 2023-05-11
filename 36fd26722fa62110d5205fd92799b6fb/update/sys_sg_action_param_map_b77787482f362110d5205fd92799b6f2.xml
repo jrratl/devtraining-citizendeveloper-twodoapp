@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Active Two Dos)">f77787482f362110d5205fd92799b6e9</button>
+        <item_parameter display_value="Active Two Dos importance">fb7787482f362110d5205fd92799b6d7</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-05-09 19:29:40</sys_created_on>
+        <sys_id>b77787482f362110d5205fd92799b6f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fb7787482f362110d5205fd92799b6d7</sys_name>
+        <sys_package display_value="Two Do" source="x_852301_two_do">36fd26722fa62110d5205fd92799b6fb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Two Do">36fd26722fa62110d5205fd92799b6fb</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_b77787482f362110d5205fd92799b6f2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-05-09 19:29:40</sys_updated_on>
+        <ui_parameter display_value="Importance">3b7787482f362110d5205fd92799b6ec</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
